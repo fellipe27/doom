@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6d9af942-0f98-4f3f-baa9-89e9c2be8b84" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/map.py" beforeDir="false" afterPath="$PROJECT_DIR$/map.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/npc.py" beforeDir="false" afterPath="$PROJECT_DIR$/npc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/object_handler.py" beforeDir="false" afterPath="$PROJECT_DIR$/object_handler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pathfinding.py" beforeDir="false" afterPath="$PROJECT_DIR$/pathfinding.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raycasting.py" beforeDir="false" afterPath="$PROJECT_DIR$/raycasting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sound/npc_attack.wav" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sound/npc-attack.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sound/npc_death.wav" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sound/npc-death.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sound/npc_pain.wav" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sound/npc-pain.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sound/player_pain.wav" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sound/player-pain.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/animated_sprites/green_light/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/animated-sprites/green-light/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/animated_sprites/green_light/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/animated-sprites/green-light/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/animated_sprites/green_light/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/animated-sprites/green-light/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/animated_sprites/green_light/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/animated-sprites/green-light/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/animated_sprites/red_light/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/animated-sprites/red-light/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/animated_sprites/red_light/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/animated-sprites/red-light/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/animated_sprites/red_light/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/animated-sprites/red-light/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/animated_sprites/red_light/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/animated-sprites/red-light/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/npc/caco_demon/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/npc/caco-demon/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/npc/caco_demon/attack/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/npc/caco-demon/attack/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/npc/caco_demon/attack/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/npc/caco-demon/attack/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/npc/caco_demon/attack/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/npc/caco-demon/attack/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/npc/caco_demon/attack/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/npc/caco-demon/attack/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/npc/caco_demon/attack/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/npc/caco-demon/attack/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/npc/caco_demon/death/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/npc/caco-demon/death/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/npc/caco_demon/death/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/npc/caco-demon/death/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/npc/caco_demon/death/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/npc/caco-demon/death/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/npc/caco_demon/death/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/npc/caco-demon/death/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/npc/caco_demon/death/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/npc/caco-demon/death/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/npc/caco_demon/death/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/npc/caco-demon/death/5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/npc/caco_demon/idle/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/npc/caco-demon/idle/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/npc/caco_demon/idle/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/npc/caco-demon/idle/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/npc/caco_demon/idle/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/npc/caco-demon/idle/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/npc/caco_demon/idle/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/npc/caco-demon/idle/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/npc/caco_demon/idle/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/npc/caco-demon/idle/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/npc/caco_demon/idle/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/npc/caco-demon/idle/5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/npc/caco_demon/idle/6.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/npc/caco-demon/idle/6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/npc/caco_demon/idle/7.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/npc/caco-demon/idle/7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/npc/caco_demon/pain/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/npc/caco-demon/pain/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/npc/caco_demon/pain/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/npc/caco-demon/pain/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/npc/caco_demon/walk/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/npc/caco-demon/walk/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/npc/caco_demon/walk/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/npc/caco-demon/walk/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/npc/caco_demon/walk/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/npc/caco-demon/walk/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/npc/cyber_demon/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/npc/cyber-demon/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/npc/cyber_demon/attack/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/npc/cyber-demon/attack/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/npc/cyber_demon/attack/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/npc/cyber-demon/attack/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/npc/cyber_demon/death/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/npc/cyber-demon/death/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/npc/cyber_demon/death/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/npc/cyber-demon/death/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/npc/cyber_demon/death/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/npc/cyber-demon/death/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/npc/cyber_demon/death/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/npc/cyber-demon/death/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/npc/cyber_demon/death/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/npc/cyber-demon/death/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/npc/cyber_demon/death/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/npc/cyber-demon/death/5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/npc/cyber_demon/death/6.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/npc/cyber-demon/death/6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/npc/cyber_demon/death/7.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/npc/cyber-demon/death/7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/npc/cyber_demon/death/8.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/npc/cyber-demon/death/8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/npc/cyber_demon/idle/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/npc/cyber-demon/idle/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/npc/cyber_demon/idle/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/npc/cyber-demon/idle/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/npc/cyber_demon/idle/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/npc/cyber-demon/idle/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/npc/cyber_demon/idle/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/npc/cyber-demon/idle/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/npc/cyber_demon/idle/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/npc/cyber-demon/idle/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/npc/cyber_demon/idle/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/npc/cyber-demon/idle/5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/npc/cyber_demon/idle/6.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/npc/cyber-demon/idle/6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/npc/cyber_demon/idle/7.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/npc/cyber-demon/idle/7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/npc/cyber_demon/pain/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/npc/cyber-demon/pain/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/npc/cyber_demon/pain/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/npc/cyber-demon/pain/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/npc/cyber_demon/walk/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/npc/cyber-demon/walk/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/npc/cyber_demon/walk/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/npc/cyber-demon/walk/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/npc/cyber_demon/walk/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/npc/cyber-demon/walk/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/npc/cyber_demon/walk/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/npc/cyber-demon/walk/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sprites/static_sprites/candlebra.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sprites/static-sprites/candlebra.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/textures/blood_screen.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/textures/blood-screen.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/textures/game_over.png" beforeDir="false" afterPath="$PROJECT_DIR$/resources/textures/game-over.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sound.py" beforeDir="false" afterPath="$PROJECT_DIR$/sound.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sprite_object.py" beforeDir="false" afterPath="$PROJECT_DIR$/sprite_object.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weapon.py" beforeDir="false" afterPath="$PROJECT_DIR$/weapon.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Is5lQMUO7Tf6us1ek9GTNAXBDe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Qintess/Documents/doom"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="doom" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d9af942-0f98-4f3f-baa9-89e9c2be8b84" name="Changes" comment="" />
+      <created>1670957600612</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670957600612</updated>
+    </task>
+    <servers />
+  </component>
+</project>
