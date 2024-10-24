@@ -6,7 +6,10 @@ class Weapon(AnimatedSprite):
 
         self.images = deque(
             [
-                pygame.transform.smoothscale(img, (self.image.get_width() * scale, self.image.get_height() * scale))
+                pygame.transform.smoothscale(
+                    img,
+                    (self.image.get_width() * scale, self.image.get_height() * scale)
+                )
                 for img in self.images
             ]
         )

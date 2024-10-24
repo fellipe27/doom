@@ -11,6 +11,8 @@ class Player:
         self.rel = 0
         self.health_recovery_delay = 700
         self.time_prev = pygame.time.get_ticks()
+        self.victory_start_time = None
+        self.victory_triggered = False
 
     def recover_health(self):
         if self.check_health_recovery_delay() and self.health < PLAYER_MAX_HEALTH:
@@ -31,12 +33,19 @@ class Player:
             if not npc.alive and npc not in npc_list:
                 npc_list.append(npc)
 
-        if len(npc_list) == len(self.game.object_handler.npc_list):
-            self.game.object_renderer.victory()
+        if len(npc_list) == len(self.game.object_handler.npc_list) and not self.victory_triggered:
+            self.victory_start_time = pygame.time.get_ticks()
+            self.victory_triggered = True
 
-            pygame.display.flip()
-            pygame.time.delay(1500)
-            self.game.new_game()
+        if self.victory_triggered and self.victory_start_time:
+            current_time = pygame.time.get_ticks()
+
+            if current_time - self.victory_start_time >= 1000:
+                self.game.object_renderer.victory()
+                pygame.display.flip()
+
+                pygame.time.delay(1500)
+                self.game.new_game()
 
     def check_game_over(self):
         if self.health < 1:
